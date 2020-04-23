@@ -1,17 +1,7 @@
 # Title: FinderFM
 ## Description:
-A website that helps users filter, find, and attend PG County farmers markets 
+FinderFM is a website developed for a final class project in Fall 2019. I worked with a team of 4 other individuals. I primarily worked on developing the node.JS express server and frontend JavaScript programming to allow for filtering on the Find A Farmers Market page. The rest of the team handled the styling/design, content creation, and website documentation. 
+
 ## Link:
-[FinderFM](https://meaggrif.github.io/finderfm/src/home.html)
+[FinderFM](https://finderfm.netlify.app/)
 
-## Target Browsers:
-We have targeted popular PC browsers such as:
-Chrome
-Internet Explorer
-Safari
-
-## User Manual:
-[User Manual](docs/user_manual.md)
-
-## Developer Manual:
-[Developer Manual](docs/developer_manual.md)
